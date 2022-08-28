@@ -8,9 +8,9 @@ public class Main {
         cliente1.telefono=688888886;
         cliente1.credito=18.5;
         System.out.println( "Edad: "+ cliente1.edad+"\n"+
-                            "Nombre: "+ cliente1.nombre+"\n"+
-                            "telefono: "+ cliente1.telefono+"\n"+
-                            "credito: "+ cliente1.credito+"\n");
+                "Nombre: "+ cliente1.nombre+"\n"+
+                "telefono: "+ cliente1.telefono+"\n"+
+                "credito: "+ cliente1.credito+"\n");
     }
 }
 
